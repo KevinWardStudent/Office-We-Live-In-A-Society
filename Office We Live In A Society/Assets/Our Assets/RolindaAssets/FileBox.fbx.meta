@@ -1,15 +1,18 @@
 fileFormatVersion: 2
-guid: 3e9deefaaa7884342beb1ed355a81f9a
+guid: 4fa4a3759292ced448fef3bd8bfe2d71
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert2
+    2100000: Base
+    2100002: Folder
+    2100004: MiddleFolder
+    2100006: FileBox
+    2100008: MetalHandle
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Monitor
-    6400000: //RootNode
+    4300000: FileBox1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
